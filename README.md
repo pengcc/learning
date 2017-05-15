@@ -11,7 +11,7 @@ fronted learning material
    4. Robert C. Martin, 《clean code》
    5. 阮一峰的网络日志： http://www.ruanyifeng.com/blog/developer/
    
- 4. 框架学习 (没有排名先后，看自己兴趣)
-    Angular JS, React JS, Vue JS
+ 4. 框架/库学习 (没有排名先后，看自己兴趣)
+    Angular JS, React JS（库library）, Vue JS
    
     
