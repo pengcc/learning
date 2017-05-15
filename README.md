@@ -1,4 +1,4 @@
 # learning
 fronted learning material
 
-社区InfoQ: http://www.infoq.com/cn/
+1. 社区InfoQ: http://www.infoq.com/cn/
